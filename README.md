@@ -1,30 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+## Project Nighthawk
 
-## Getting Started
+This project was formed out of a need for an easy to use estimating system.
+Due to the unique nature of each print job estimates must be calculated on a per job basis, this results in a good portion of the day being devoted to telling clients how much their sticker job might cost.
 
-First, run the development server:
+Project Nighthawk aims to inform clients of approximately how much a given sticker might cost them, as well as tracking previous quotes for easy reference!
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Technologies used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ - [Next.js](https://nextjs.org/) Next is a great framework that simplifies the creation of APIs and makes deployment a breeze!
+ - React
+ - react-bootstrap
+ - bcrypt
+ - Sequelize
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Areas of Expansion
 
-## Learn More
+In the future we would like to add more functionality such as an Admin panel that allows employees to make changes that we wouldn't want the client making themselves.
 
-To learn more about Next.js, take a look at the following resources:
+## Deployed Version
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on ZEIT Now
-
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Check out the latest deployment of [Project Nighthawk](https://project-nighthawk.now.sh/).
