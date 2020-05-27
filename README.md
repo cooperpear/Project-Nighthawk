@@ -17,6 +17,8 @@ Project Nighthawk aims to inform clients of approximately how much a given stick
 
 In the future we would like to add more functionality such as an Admin panel that allows employees to make changes that we wouldn't want the client making themselves. A checkout process would also be welcome.
 
+## Authors
+
 ## Deployed Version
 
 Check out the latest deployment of [Project Nighthawk](https://project-nighthawk.now.sh/).
