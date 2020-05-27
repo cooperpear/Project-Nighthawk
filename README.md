@@ -19,6 +19,7 @@ In the future we would like to add more functionality such as an Admin panel tha
 
 ## Authors
 Cooper Pearson
+D
 
 ## Deployed Version
 
