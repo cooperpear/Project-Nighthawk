@@ -15,7 +15,7 @@ Project Nighthawk aims to inform clients of approximately how much a given stick
 
 ## Areas of Expansion
 
-In the future we would like to add more functionality such as an Admin panel that allows employees to make changes that we wouldn't want the client making themselves. A checkout process
+In the future we would like to add more functionality such as an Admin panel that allows employees to make changes that we wouldn't want the client making themselves. A checkout process w
 
 ## Deployed Version
 
