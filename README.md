@@ -12,6 +12,7 @@ Project Nighthawk aims to inform clients of approximately how much a given stick
  - react-bootstrap
  - bcrypt
  - Sequelize
+ - Firebase (backend storage)
 
 ## Areas of Expansion
 
