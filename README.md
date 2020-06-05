@@ -18,9 +18,20 @@ Project Nighthawk aims to inform clients of approximately how much a given stick
 In the future we would like to add more functionality such as an Admin panel that allows employees to make changes that we wouldn't want the client making themselves. A checkout process would also be welcome.
 
 ## Authors
-Cooper Pearson
+Cooper Pearson<br>
 Daniel Hawn
 
 ## Deployed Version
 
 Check out the latest deployment of [Project Nighthawk](https://project-nighthawk.now.sh/).
+
+## Screenshots
+![Home](https://github.com/cooperpear/Project-Nighthawk/blob/master/screencapture-project-nighthawk-now-sh-2020-04-18-00_08_30.png?raw=true "Home")
+
+![Order](https://github.com/cooperpear/Project-Nighthawk/blob/master/order%20page.png?raw=true "Order")
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+Copyright 2020
